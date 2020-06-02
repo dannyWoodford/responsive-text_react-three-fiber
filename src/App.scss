@@ -1,0 +1,16 @@
+
+body {
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+  .App {
+    height: 100vh;
+    width: 100vw;
+    background: #282c34;
+
+    canvas {
+      height: 100vh;
+      width: 100vw;
+    }
+  }
+}
